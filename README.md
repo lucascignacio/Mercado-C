@@ -1,1 +1,3 @@
 # Mercado-C
+
+Um aplicativo de mercado com funções como compra, carrinho, cadastro e diversas outras... 
